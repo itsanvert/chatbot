@@ -301,6 +301,3 @@ The middleware also sets a cookie based on the onboarding status of a user. This
 - [Website](https://nextjs.org/)
 - [GitHub](https://github.com/vercel/next.js)
 - [Documentation](https://nextjs.org/docs)
-#   c h a t b o t  
- #   c h a t b o t  
- 
